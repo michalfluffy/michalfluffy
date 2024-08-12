@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @michalfluffy
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on microsoft
+- 📫 How to reach me - dc : michalfluffi
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: idk
